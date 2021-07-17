@@ -1,0 +1,11 @@
+[package]
+name = "compend-server"
+description = "Runs code analysis tools in a detached process; to be shared by any Compend clients."
+version = "0.1.0"
+edition = "2018"
+license = "BlueOak-1.0.0"
+readme = "README.md"
+homepage = "https://compend.us"
+repository = "https://github.com/compend/server"
+
+[dependencies]
